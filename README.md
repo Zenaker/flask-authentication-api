@@ -29,7 +29,7 @@ HTTP/1.1 200 OK
 Content-Type: application/json
 
 {
-  "status": "success",
+  "status": "success"
 }
 ```
 > Error Response
@@ -64,7 +64,7 @@ HTTP/1.1 200 OK
 Content-Type: application/json
 
 {
-  "status": "success",
+  "status": "success"
 }
 ```
 > Error Response
