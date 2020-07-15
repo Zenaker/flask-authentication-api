@@ -6,7 +6,7 @@ P.S change the public and private keys in the database/encryption folder :)
 ## API Calls
 
 ### Register
- * Register an account on the database
+ * Register an account in the database
  
 Send a `POST` request to `/auth/register` to register your account with the following parameters:
 
