@@ -68,7 +68,7 @@ Content-Type: application/json
 }
 ```
 > Error Response
-```
+```JSON
 HTTP/1.1 404
 Content-Type: application/json
 
